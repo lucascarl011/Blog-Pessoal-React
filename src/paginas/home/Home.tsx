@@ -1,6 +1,5 @@
-import homeLogo from '../../assets/react.svg'
+import homeLogo from '../../assets/Home.png'
 import './Home.css';
-
 
 function Home() {
     return (
@@ -23,7 +22,7 @@ function Home() {
             </div>
           </div>
         </div>
-      
+        
       </>
     );
 }
